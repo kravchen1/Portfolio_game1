@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 23d2c155e34456f42bd3ccda47e7c934
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musinOn: {fileID: 21300000, guid: 4487209fdda91154da619301adb9e6c4, type: 3}
+  - musicOff: {fileID: 21300000, guid: 833d1e8a52d7c8b4f9e8200a08721bdd, type: 3}
+  - Speed_rotate_x1: {fileID: 21300000, guid: a2d83a19b3f437740923e57efcaa9b1c, type: 3}
+  - Speed_rotate_x2: {fileID: 21300000, guid: 755e8c3b0e75b46478c8f95f00dbb9dd, type: 3}
+  - Speed_rotate_x3: {fileID: 21300000, guid: 36712fa5d95c985428f3920d3aaa07fe, type: 3}
+  - Light_platform_on: {fileID: 21300000, guid: 184b5aea732ceac45a7d251afed52e63, type: 3}
+  - Light_platform_off: {fileID: 21300000, guid: a69e8af28030b2943a188d93d0fa1bb6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
